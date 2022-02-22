@@ -1,0 +1,11 @@
+{
+  "name": "tailwind-hub",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/divinirakiza/tailwind-hub.git",
+  "author": "Divin Irakiza <irakizadivin@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "tailwindcss": "^3.0.23"
+  }
+}
